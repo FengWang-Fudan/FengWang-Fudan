@@ -13,7 +13,7 @@
 3. 秦尉博
 4. 翟相龙
 5. 蔡峰
-6. 王旋
+6. [王旋](https://github.com/SalmonDonburi)
 7. 龙波
 
 ## 2022届
