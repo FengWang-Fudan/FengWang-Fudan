@@ -21,3 +21,6 @@
 2. 徐新昊
 3. 金晶
 4. [邢雅轩](https://github.com/xingyaxuan)
+
+## 2023届
+1. [廖洋](https://qooolloop.github.io/)
